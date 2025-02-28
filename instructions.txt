@@ -1,3 +1,9 @@
 This is insturctions for the project.
 
 added site to the server
+
+
+instalation on ss
+
+
+content goes here

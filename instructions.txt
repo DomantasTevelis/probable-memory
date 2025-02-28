@@ -1,3 +1,5 @@
 This is insturctions for the project.
 
 added site to the server
+
+added changes from sample-branch
